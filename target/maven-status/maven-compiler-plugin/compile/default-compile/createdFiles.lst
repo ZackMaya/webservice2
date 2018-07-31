@@ -1,0 +1,5 @@
+mx\edu\uacm\webservice\App.class
+mx\edu\uacm\webservice\Application.class
+mx\edu\uacm\webservice\WebServiceConfig.class
+mx\edu\uacm\webservice\service\impl\MiServicioImpl.class
+mx\edu\uacm\webservice\service\MiServicio.class
